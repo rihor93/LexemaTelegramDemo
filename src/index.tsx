@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import { useThemeParams } from '@vkruglikov/react-telegram-web-app';
+import { MainButton, useThemeParams } from '@vkruglikov/react-telegram-web-app';
 import { ConfigProvider, theme } from 'antd';
 
 import './index.css';
@@ -32,13 +32,17 @@ const DemoApp = () => {
         }
       >
         <div className="contentWrapper">
-          <MainButtonLexema value='first btn'/>
-          <MainButtonDemo />
+          <MainButtonLexema value='FAQ'/>
+          <MainButtonLexema value='Скачать презинтацию'/>
+          <MainButtonLexema value='Получить консультацию по продукту'/>
+          <MainButtonLexema value='Задать вопрос'/>
+          
           
           
 
         </div>
       </ConfigProvider>
+      <div><MainButton text='Назад'/></div>
     </div>
   );
 };
