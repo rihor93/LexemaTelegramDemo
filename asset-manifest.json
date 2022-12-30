@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/LexemaTelegramDemo/static/css/main.90a504d0.css",
-    "main.js": "/LexemaTelegramDemo/static/js/main.9a7bc821.js",
+    "main.js": "/LexemaTelegramDemo/static/js/main.5c98de1f.js",
     "index.html": "/LexemaTelegramDemo/index.html",
     "main.90a504d0.css.map": "/LexemaTelegramDemo/static/css/main.90a504d0.css.map",
-    "main.9a7bc821.js.map": "/LexemaTelegramDemo/static/js/main.9a7bc821.js.map"
+    "main.5c98de1f.js.map": "/LexemaTelegramDemo/static/js/main.5c98de1f.js.map"
   },
   "entrypoints": [
     "static/css/main.90a504d0.css",
-    "static/js/main.9a7bc821.js"
+    "static/js/main.5c98de1f.js"
   ]
 }
